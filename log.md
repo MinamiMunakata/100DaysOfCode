@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: July 13, Sunday
+
+**Today's Progress**: I've solved a question from HackerRank.
+
+**Thoughts** I haven't coded for a while. I haven't coded for a while. It's time to change my habits finally.
+
+**Link(s) to work**
+
+1. [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +37,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
