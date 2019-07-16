@@ -19,6 +19,27 @@
 **Link(s) to work**
 
 1. [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+
+### Day 3: July 15, Monday
+
+**Today's Progress**: I watched the video about Hash Table.
+
+**Thoughts** To solve the next challenge from HackerRank, I watched the video which gave me better understanding of Hash Table.
+
+**Link(s) to work**
+
+1. [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+
+### Day 4: July 16, Tuesday
+
+**Today's Progress**: I've solved a question from HackerRank.
+
+**Thoughts** What I had learned from the video I had watched yesterday helped me to solve this question.
+
+**Link(s) to work**
+
+1. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
 ##### (delete me or comment me out)

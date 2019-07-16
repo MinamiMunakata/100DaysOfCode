@@ -13,3 +13,13 @@ https://www.hackerrank.com/interview/interview-preparation-kit/arrays/challenges
 
 Solve a question from HackerRank.
 https://www.hackerrank.com/challenges/array-left-rotation/problem
+
+### R1D3
+
+I watched the video about Hash Table.
+https://www.hackerrank.com/challenges/array-left-rotation/problem
+
+### R1D4
+
+I've solved a question from HackerRank.
+https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
