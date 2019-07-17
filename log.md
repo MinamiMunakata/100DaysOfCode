@@ -40,6 +40,66 @@
 
 1. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
+### Day 5: July , Wednesday
+
+**Today's Progress**: I tried Python for the first time in 1.5 years.
+
+**Thoughts** Python is the first language that I've leaned as programming language but only basic. As an introduction to learn coding. I almost forgot everything.
+
+**Link(s) to work**
+
+1. [CodingBat: Warmup-1](https://codingbat.com/prob/p120546)
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
 ##### (delete me or comment me out)

@@ -23,3 +23,8 @@ https://www.hackerrank.com/challenges/array-left-rotation/problem
 
 I've solved a question from HackerRank.
 https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+
+###R1D5
+
+I tried Python for the first time in 1.5 years!
+https://codingbat.com/prob/p120546
