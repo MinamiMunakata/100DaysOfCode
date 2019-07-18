@@ -40,7 +40,7 @@
 
 1. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
-### Day 5: July , Wednesday
+### Day 5: July 17, Wednesday
 
 **Today's Progress**: I tried Python for the first time in 1.5 years.
 
@@ -50,15 +50,15 @@
 
 1. [CodingBat: Warmup-1](https://codingbat.com/prob/p120546)
 
-### Day : July , day
+### Day 6: July 18, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Solved another warm-up question.
 
-**Thoughts**
+**Thoughts** I need to fegure out the time to do coding...
 
 **Link(s) to work**
 
-1. []()
+1. [CodingBat: Warmup-1](https://codingbat.com/prob/p141905)
 
 ### Day : July , day
 
