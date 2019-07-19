@@ -28,3 +28,11 @@ https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&pla
 
 I tried Python for the first time in 1.5 years!
 https://codingbat.com/prob/p120546
+
+###R1D6
+I tried another Python quize
+https://codingbat.com/prob/p141905
+
+###R1D6
+Solved Java quiz.
+https://codingbat.com/prob/p183071

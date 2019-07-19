@@ -60,15 +60,15 @@
 
 1. [CodingBat: Warmup-1](https://codingbat.com/prob/p141905)
 
-### Day : July , day
+### Day 7 : July 19 , Friday
 
-**Today's Progress**:
+**Today's Progress**: Solved Java quiz.
 
-**Thoughts**
+**Thoughts** I wrote Java code for the first time in a while. Omg, I forgot a lot. I didn't even remember very basic syntax. I need more reviewing.
 
 **Link(s) to work**
 
-1. []()
+1. [CodingBat: Logic-1 > sortaSum](https://codingbat.com/prob/p183071)
 
 ### Day : July , day
 
