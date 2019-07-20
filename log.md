@@ -70,15 +70,15 @@
 
 1. [CodingBat: Logic-1 > sortaSum](https://codingbat.com/prob/p183071)
 
-### Day : July , day
+### Day 8: July 20, Saturday
 
-**Today's Progress**:
+**Today's Progress**: Completed the web page to introduce my very first android app which will be on Google Play store soon:)
 
-**Thoughts**
+**Thoughts** CSS is tricky.
 
 **Link(s) to work**
 
-1. []()
+1. [GitHub](https://github.com/Minamiciccc/wakemeapp.info)
 
 ### Day : July , day
 

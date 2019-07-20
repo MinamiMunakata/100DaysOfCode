@@ -33,6 +33,10 @@ https://codingbat.com/prob/p120546
 I tried another Python quize
 https://codingbat.com/prob/p141905
 
-###R1D6
+###R1D7
 Solved Java quiz.
 https://codingbat.com/prob/p183071
+
+###R1D8
+Update info page.
+https://github.com/Minamiciccc/wakemeapp.info
