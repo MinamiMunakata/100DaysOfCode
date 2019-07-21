@@ -80,15 +80,16 @@
 
 1. [GitHub](https://github.com/Minamiciccc/wakemeapp.info)
 
-### Day : July , day
+### Day9 : July21 , Sunday
 
 **Today's Progress**:
+Solved Python quiz.
 
-**Thoughts**
+**Thoughts** It was busy today but I didn't give up to write some codes.
 
 **Link(s) to work**
 
-1. []()
+1. [CodingBat: List-2](https://codingbat.com/prob/p189616)
 
 ### Day : July , day
 
