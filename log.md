@@ -91,6 +91,36 @@ Solved Python quiz.
 
 1. [CodingBat: List-2](https://codingbat.com/prob/p189616)
 
+### Day 10: July 22, Monday
+
+**Today's Progress**: Tried a quiz but I wasn't able to solve it.
+
+**Thoughts** Medium level is still hard for me. Need review and I'll try it again.
+
+**Link(s) to work**
+
+1. [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+### Day 11: July 23, Tuesday
+
+**Today's Progress**: Solved the one I had tried yesterday!
+
+**Thoughts** You don't feel comfortable while struggling, but you will be happy when you solve the problem!
+
+**Link(s) to work**
+
+1. [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
 ### Day : July , day
 
 **Today's Progress**:

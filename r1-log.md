@@ -44,3 +44,11 @@ https://github.com/Minamiciccc/wakemeapp.info
 ###R1D9
 Solved Python quiz.
 https://codingbat.com/prob/p189616
+
+###R1D10
+Tried a quiz but I wasn't able to solve it.
+https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+
+###R1D11
+Solved the one I had tried yesterday!
+https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
