@@ -111,15 +111,15 @@ Solved Python quiz.
 
 1. [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
-### Day : July , day
+### Day 12: July 24, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Got half points for trying a question from HackerRank
 
-**Thoughts**
+**Thoughts** Terminated due to timeout... Retry tomorrow
 
 **Link(s) to work**
 
-1. []()
+1. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
 ### Day : July , day
 
