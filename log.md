@@ -121,15 +121,15 @@ Solved Python quiz.
 
 1. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
-### Day : July , day
+### Day 13: July 25, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Solved the problem from yesterday and got full score!
 
-**Thoughts**
+**Thoughts** No timeout error today. Happy!
 
 **Link(s) to work**
 
-1. []()
+1. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
