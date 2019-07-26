@@ -131,6 +131,56 @@ Solved Python quiz.
 
 1. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
+### Day 14: July 26, Friday
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
 ##### (delete me or comment me out)
