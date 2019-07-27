@@ -141,11 +141,11 @@ Solved Python quiz.
 
 1. [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
-### Day : July , day
+### Day 15: July 27, Saturday
 
-**Today's Progress**:
+**Today's Progress**: Work on my android app project.
 
-**Thoughts**
+**Thoughts** I haven't opened Android Studio for while. But thanks to #100DaysOfCode, I got motivated to start my project again.
 
 **Link(s) to work**
 
