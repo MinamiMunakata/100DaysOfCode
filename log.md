@@ -147,19 +147,15 @@ Solved Python quiz.
 
 **Thoughts** I haven't opened Android Studio for while. But thanks to #100DaysOfCode, I got motivated to start my project again.
 
-**Link(s) to work**
+### Day 16: July 28, Sunday
 
-1. []()
+**Today's Progress**: Learned about the meta tag of HTML.
 
-### Day : July , day
-
-**Today's Progress**:
-
-**Thoughts**
+**Thoughts** SEO is a big key to make a better website.
 
 **Link(s) to work**
 
-1. []()
+1. [サイトに埋め込まれた HTML の meta タグ(メタタグ)のまとめ](https://qiita.com/imotoy/items/c805f3cbc2d09f396cb4)
 
 ### Day : July , day
 
