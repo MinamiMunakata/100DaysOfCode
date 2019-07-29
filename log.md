@@ -157,15 +157,16 @@ Solved Python quiz.
 
 1. [サイトに埋め込まれた HTML の meta タグ(メタタグ)のまとめ](https://qiita.com/imotoy/items/c805f3cbc2d09f396cb4)
 
-### Day : July , day
+### Day 17: July 29, Monday
 
-**Today's Progress**:
+**Today's Progress**: Create APK file.
 
-**Thoughts**
+**Thoughts** Learning the process to release an android app.
 
 **Link(s) to work**
 
-1. []()
+1. [App Bundle](https://developer.android.com/platform/technology/app-bundle)
+2. [[Android] アプリを Google Play に公開、apk ファイルの作成](https://akira-watson.com/android/apk.html)
 
 ### Day : July , day
 
