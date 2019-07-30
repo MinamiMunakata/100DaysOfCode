@@ -168,6 +168,47 @@ Solved Python quiz.
 1. [App Bundle](https://developer.android.com/platform/technology/app-bundle)
 2. [[Android] アプリを Google Play に公開、apk ファイルの作成](https://akira-watson.com/android/apk.html)
 
+### Day 18: July 30, Tuesday
+
+**Today's Progress**: Learned how to create a multi-language website. Also created index.html, only the part of \<header\>
+
+**Thoughts** Hope it would be a good practice to learn HTML and CSS.
+
+**Link(s) to work**
+
+1. [2019 年版！おすすめのリセット CSS まとめ](https://webdesign-trends.net/entry/8137)
+2. [多言語サイトの作り方とグローバル SEO の要点 10（WordPress）](https://saruwakakun.com/html-css/wordpress/global-seo)
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : July , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
 ### Day : July , day
 
 **Today's Progress**:
