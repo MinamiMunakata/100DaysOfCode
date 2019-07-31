@@ -179,11 +179,11 @@ Solved Python quiz.
 1. [2019 年版！おすすめのリセット CSS まとめ](https://webdesign-trends.net/entry/8137)
 2. [多言語サイトの作り方とグローバル SEO の要点 10（WordPress）](https://saruwakakun.com/html-css/wordpress/global-seo)
 
-### Day : July , day
+### Day 19: July 31, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Just roll-out my very first app to google play store!
 
-**Thoughts**
+**Thoughts** I learned there are many things you have to take care other than coding to puplish your app. For example, if the app could appeal to children and if so, you should check your app whether the app would be harmful to children.
 
 **Link(s) to work**
 
