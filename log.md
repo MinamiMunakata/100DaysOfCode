@@ -189,15 +189,16 @@ Solved Python quiz.
 
 1. []()
 
-### Day : July , day
+### Day 20: August 1, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Learned how to use a bootstrap navbar.
 
 **Thoughts**
+Good exercise.
 
 **Link(s) to work**
 
-1. []()
+1. [Bootstrap](https://getbootstrap.com/)
 
 ### Day : July , day
 
