@@ -200,15 +200,15 @@ Good exercise.
 
 1. [Bootstrap](https://getbootstrap.com/)
 
-### Day : July , day
+### Day 21: August 2, Friday
 
-**Today's Progress**:
+**Today's Progress**: Solved a quiz from CodingBat.
 
-**Thoughts**
+**Thoughts** Reviewing Java.
 
 **Link(s) to work**
 
-1. []()
+1. [caughtSpeeding ](https://codingbat.com/prob/p157733)
 
 ### Day : July , day
 
