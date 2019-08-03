@@ -210,7 +210,57 @@ Good exercise.
 
 1. [caughtSpeeding ](https://codingbat.com/prob/p157733)
 
-### Day : July , day
+### Day 23: August 3, Saturday
+
+**Today's Progress**: Modified the website for WakeMeApp and updated README.
+
+**Thoughts** WakeMeApp has been published on Google Play!
+
+**Link(s) to work**
+
+1. [WakeMeApp](https://play.google.com/store/apps/details?id=com.minami_m.project.android.wakemeapp)
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
 
 **Today's Progress**:
 
