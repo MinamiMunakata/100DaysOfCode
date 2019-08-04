@@ -220,15 +220,15 @@ Good exercise.
 
 1. [WakeMeApp](https://play.google.com/store/apps/details?id=com.minami_m.project.android.wakemeapp)
 
-### Day : August , day
+### Day 24: August 4, Sunday
 
-**Today's Progress**:
+**Today's Progress**: Resume a udemy course "Modern React with Redux"
 
-**Thoughts**
+**Thoughts** I need to remember how to build react app.
 
 **Link(s) to work**
 
-1. []()
+1. [Modern React with Redux](https://www.udemy.com/react-redux/)
 
 ### Day : August , day
 
