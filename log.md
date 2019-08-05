@@ -210,7 +210,7 @@ Good exercise.
 
 1. [caughtSpeeding ](https://codingbat.com/prob/p157733)
 
-### Day 23: August 3, Saturday
+### Day 22: August 3, Saturday
 
 **Today's Progress**: Modified the website for WakeMeApp and updated README.
 
@@ -220,7 +220,7 @@ Good exercise.
 
 1. [WakeMeApp](https://play.google.com/store/apps/details?id=com.minami_m.project.android.wakemeapp)
 
-### Day 24: August 4, Sunday
+### Day 23: August 4, Sunday
 
 **Today's Progress**: Resume a udemy course "Modern React with Redux"
 
@@ -230,15 +230,15 @@ Good exercise.
 
 1. [Modern React with Redux](https://www.udemy.com/react-redux/)
 
-### Day : August , day
+### Day 24: August 5, Monday
 
-**Today's Progress**:
+**Today's Progress**: Section 3 - 36. Learned about React's props system.
 
-**Thoughts**
+**Thoughts** I learned how to pass arguments in an effective way.
 
 **Link(s) to work**
 
-1. []()
+1. [Modern React with Redux](https://www.udemy.com/react-redux/)
 
 ### Day : August , day
 
