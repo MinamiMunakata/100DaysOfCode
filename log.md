@@ -240,15 +240,15 @@ Good exercise.
 
 1. [Modern React with Redux](https://www.udemy.com/react-redux/)
 
-### Day : August , day
+### Day 25: August 6, Tuesday
 
-**Today's Progress**:
+**Today's Progress**: Section 3 - 38.
 
 **Thoughts**
 
 **Link(s) to work**
 
-1. []()
+1. [Modern React with Redux](https://www.udemy.com/react-redux/)
 
 ### Day : August , day
 
