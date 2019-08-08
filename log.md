@@ -250,19 +250,19 @@ Good exercise.
 
 1. [Modern React with Redux](https://www.udemy.com/react-redux/)
 
-### Day : August , day
+### Day 26: August 7, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: I forgot to tweet! Yesterday, day 26 of #100DaysOfCode I've done section 3 of 'Modern React with Redux'
 
 **Thoughts**
 
 **Link(s) to work**
 
-1. []()
+1. [Modern React with Redux](https://www.udemy.com/react-redux/)
 
-### Day : August , day
+### Day 27: August 8, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Tried to fix vulnerabilities but not done.
 
 **Thoughts**
 
