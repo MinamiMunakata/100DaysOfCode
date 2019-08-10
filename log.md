@@ -270,6 +270,26 @@ Good exercise.
 
 1. []()
 
+### Day 28: August 10, Saturday
+
+**Today's Progress**: Tried to fix vulnerabilities but not done.
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day 27: August 8, Thursday
+
+**Today's Progress**: Tried to fix vulnerabilities but not done.
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
 ##### (delete me or comment me out)
