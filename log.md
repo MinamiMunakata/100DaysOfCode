@@ -280,15 +280,15 @@ Good exercise.
 
 1. []()
 
-### Day 27: August 8, Thursday
+### Day 29: August 11, Sunday
 
-**Today's Progress**: Tried to fix vulnerabilities but not done.
+**Today's Progress**: Review Java.
 
 **Thoughts**
 
 **Link(s) to work**
 
-1. []()
+1. [CodingBat](https://codingbat.com/prob/p175763)
 
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
