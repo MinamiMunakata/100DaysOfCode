@@ -290,6 +290,86 @@ Good exercise.
 
 1. [CodingBat](https://codingbat.com/prob/p175763)
 
+### Day 30: August 12, Monday
+
+**Today's Progress**: Solved a small Python exercise.
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [CodingBat](https://codingbat.com/prob/p184853)
+
+### Day 31: August 13, Tuesday
+
+**Today's Progress**: Solved a small Python exercise.
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. [CodingBat](https://codingbat.com/prob/p119308)
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
+### Day : August , day
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+1. []()
+
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
 ##### (delete me or comment me out)
