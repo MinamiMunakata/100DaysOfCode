@@ -310,15 +310,15 @@ Good exercise.
 
 1. [CodingBat](https://codingbat.com/prob/p119308)
 
-### Day : August , day
+### Day 32: August 14, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Review CSS
 
 **Thoughts**
 
 **Link(s) to work**
 
-1. []()
+1. [CSS だけで実装できるおしゃれテーブルデザイン 10 つ](https://webliker.info/75964/)
 
 ### Day : August , day
 
