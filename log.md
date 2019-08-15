@@ -320,9 +320,9 @@ Good exercise.
 
 1. [CSS だけで実装できるおしゃれテーブルデザイン 10 つ](https://webliker.info/75964/)
 
-### Day : August , day
+### Day 33: August 15, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Create a private repository for the website.
 
 **Thoughts**
 
