@@ -320,7 +320,7 @@ Good exercise.
 
 1. [CSS だけで実装できるおしゃれテーブルデザイン 10 つ](https://webliker.info/75964/)
 
-### Day 33: August 15, Wednesday
+### Day 33: August 15, Thursday
 
 **Today's Progress**: Create a private repository for the website.
 
@@ -330,9 +330,9 @@ Good exercise.
 
 1. []()
 
-### Day : August , day
+### Day 34: August 16, Friday
 
-**Today's Progress**:
+**Today's Progress**: Clone a git project.
 
 **Thoughts**
 
@@ -340,7 +340,7 @@ Good exercise.
 
 1. []()
 
-### Day : August , day
+### Day 35: August 18, Sunday
 
 **Today's Progress**:
 
