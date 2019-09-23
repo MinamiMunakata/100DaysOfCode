@@ -344,31 +344,101 @@ Good exercise.
 
 **Today's Progress**:
 
-**Thoughts**
-
-**Link(s) to work**
-
-1. []()
-
-### Day : August , day
+### Day 36: August 19, Monsday
 
 **Today's Progress**:
 
-**Thoughts**
-
-**Link(s) to work**
-
-1. []()
-
-### Day : August , day
+### Day 37: August 20, Tuesday
 
 **Today's Progress**:
 
-**Thoughts**
+### Day 38: August 21, Wednesday
 
-**Link(s) to work**
+**Today's Progress**:
 
-1. []()
+### Day 39: August 22, Thursday
+
+**Today's Progress**:
+
+### Day 40: August 23, Friday
+
+**Today's Progress**:
+
+### Day 41: August 24, Saturday
+
+**Today's Progress**:
+
+### Day 42: August 25, Sunday
+
+**Today's Progress**:
+
+### Day 43: August 26, Monday
+
+**Today's Progress**:
+
+### Day 44: August 27, Tuesday
+
+**Today's Progress**:
+
+### Day 45: August 28, Wednessday
+
+**Today's Progress**:
+
+### Day 46: August 29, Thursday
+
+**Today's Progress**:
+
+### Day 47: August 30, Friday
+
+**Today's Progress**:
+
+### Day 48: August 31, Saturday
+
+**Today's Progress**:
+
+### Day 49: Sep 2
+
+**Today's Progress**: Learn life cycle of React.
+
+### Day 50: Sep 3
+
+**Today's Progress**: Learn how to apply style css.
+
+### Day 51: Sep 4
+
+**Today's Progress**: Learn how to create reusable components.
+
+### Day 52: Sep 5
+
+**Today's Progress**: Section 6 is done!
+
+### Day 53: Sep 7
+
+**Today's Progress**: Use http://bqworks.com/slider-pro/
+
+### Day 54: Sep 8
+
+**Today's Progress**: Learn flexbox by playing @playCodepip's http://flexboxfroggy.com! Did all 24 levels.
+
+### Day 55: Sep 9
+
+**Today's Progress**: Section7-81 is done.
+
+### Day 56: Sep 10
+
+**Today's Progress**: Section 7 - 84 is done.
+
+### Day 57: Sep 12
+
+**Today's Progress**: Reviewing my coworker’s code and found errors , and debug.
+
+### Day 58: Sep 13
+
+**Today's Progress**: Review section 7 to get a better understanding of 'this'. How do you guys understand 'this' in JS language? It always makes me confused!
+
+### Day 59: Sep 14
+
+**Today's Progress**: Making Api requests with React
 
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
