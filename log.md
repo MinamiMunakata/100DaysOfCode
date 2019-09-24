@@ -440,6 +440,170 @@ Good exercise.
 
 **Today's Progress**: Making Api requests with React
 
+### Day 60: Sep 16
+
+**Today's Progress**: Implementing keys in list
+
+### Day 61: Sep 17
+
+**Today's Progress**: Install MAMP and set up environmental settings
+
+### Day 62: Sep 19
+
+**Today's Progress**: Modify CSS to make it works for safari browser
+
+### Day 63: Sep 20
+
+**Today's Progress**: css for React. Lean grid layout
+
+### Day 64: Sep 24
+
+**Today's Progress**: Create another component for the #React project.
+
+### Day 65:
+
+**Today's Progress**:
+
+### Day 66:
+
+**Today's Progress**:
+
+### Day 67:
+
+**Today's Progress**:
+
+### Day 68:
+
+**Today's Progress**:
+
+### Day 69:
+
+**Today's Progress**:
+
+### Day 70:
+
+**Today's Progress**:
+
+### Day 71:
+
+**Today's Progress**:
+
+### Day 72:
+
+**Today's Progress**:
+
+### Day 73:
+
+**Today's Progress**:
+
+### Day 74:
+
+**Today's Progress**:
+
+### Day 75:
+
+**Today's Progress**:
+
+### Day 76:
+
+**Today's Progress**:
+
+### Day 77:
+
+**Today's Progress**:
+
+### Day 78:
+
+**Today's Progress**:
+
+### Day 79:
+
+**Today's Progress**:
+
+### Day 80:
+
+**Today's Progress**:
+
+### Day 81:
+
+**Today's Progress**:
+
+### Day 82:
+
+**Today's Progress**:
+
+### Day 83:
+
+**Today's Progress**:
+
+### Day 84:
+
+**Today's Progress**:
+
+### Day 85:
+
+**Today's Progress**:
+
+### Day 86:
+
+**Today's Progress**:
+
+### Day 87:
+
+**Today's Progress**:
+
+### Day 88:
+
+**Today's Progress**:
+
+### Day 89:
+
+**Today's Progress**:
+
+### Day 90:
+
+**Today's Progress**:
+
+### Day 91:
+
+**Today's Progress**:
+
+### Day 92:
+
+**Today's Progress**:
+
+### Day 93:
+
+**Today's Progress**:
+
+### Day 94:
+
+**Today's Progress**:
+
+### Day 95:
+
+**Today's Progress**:
+
+### Day 96:
+
+**Today's Progress**:
+
+### Day 97:
+
+**Today's Progress**:
+
+### Day 98:
+
+**Today's Progress**:
+
+### Day 99:
+
+**Today's Progress**:
+
+### Day 100:
+
+**Today's Progress**:
+
    <!-- ### Day 0: February 30, 2016 (Example 1)
 
 ##### (delete me or comment me out)
