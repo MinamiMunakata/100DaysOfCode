@@ -460,13 +460,13 @@ Good exercise.
 
 **Today's Progress**: Create another component for the #React project.
 
-### Day 65:
+### Day 65: Sep 28
 
-**Today's Progress**:
+**Today's Progress**: Solved Jumping on the Clouds on @HackerRank. http://hr.gs/efaabf
 
-### Day 66:
+### Day 66: Sep 29
 
-**Today's Progress**:
+**Today's Progress**: Solved Array's Q @HackerRank
 
 ### Day 67:
 
