@@ -472,9 +472,9 @@ Good exercise.
 
 **Today's Progress**: Solved Array's Q @HackerRank https://www.hackerrank.com//challenges/ctci-array-left-rotation/submissions/code/125273540
 
-### Day 68:
+### Day 68: Oct 1
 
-**Today's Progress**:
+**Today's Progress**: Solved Question
 
 ### Day 69:
 
