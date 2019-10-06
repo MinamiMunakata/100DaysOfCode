@@ -476,9 +476,9 @@ Good exercise.
 
 **Today's Progress**: Solved Question
 
-### Day 69:
+### Day 69: Oct 6
 
-**Today's Progress**:
+**Today's Progress**: Done Section 10. https://www.udemy.com/course/react-redux/
 
 ### Day 70:
 
