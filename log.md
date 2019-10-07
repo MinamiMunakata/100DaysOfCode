@@ -480,9 +480,9 @@ Good exercise.
 
 **Today's Progress**: Done Section 10. https://www.udemy.com/course/react-redux/
 
-### Day 70:
+### Day 70: Oct 7
 
-**Today's Progress**:
+**Today's Progress**: Success! Just solved New Year Chaos on @HackerRank. http://hr.gs/fccdad
 
 ### Day 71:
 
