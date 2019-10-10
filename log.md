@@ -484,13 +484,18 @@ Good exercise.
 
 **Today's Progress**: Success! Just solved New Year Chaos on @HackerRank. http://hr.gs/fccdad
 
-### Day 71:
+### Day 71: Oct 9
 
-**Today's Progress**:
+**Today's Progress**: Learn about MVVM by watching tutorial videos
 
-### Day 72:
+- MVVM Design Pattern - iOS Design Patterns - raywenderlich.com
+  - https://youtu.be/bFoLlwuzAtk
 
-**Today's Progress**:
+### Day 72: Oct 10
+
+**Today's Progress**: Learn about MVVM.
+
+- https://qiita.com/oya-t/items/e4f65ec42de9ee65d6f1
 
 ### Day 73:
 
