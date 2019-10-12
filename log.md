@@ -496,6 +496,7 @@ Good exercise.
 **Today's Progress**: Learn about MVVM.
 
 - https://qiita.com/oya-t/items/e4f65ec42de9ee65d6f1
+- https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1
 
 ### Day 73:
 
