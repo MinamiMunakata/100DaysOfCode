@@ -498,13 +498,13 @@ Good exercise.
 - https://qiita.com/oya-t/items/e4f65ec42de9ee65d6f1
 - https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1
 
-### Day 73:
+### Day 73: Oct 12
 
-**Today's Progress**:
+**Today's Progress**: Create a new repository to learn MVVM.
 
-### Day 74:
+### Day 74: Oct 13
 
-**Today's Progress**:
+**Today's Progress**: Work on MVVM project interacting GitHub API. Implement Epoxy.
 
 ### Day 75:
 
