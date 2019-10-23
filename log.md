@@ -506,25 +506,25 @@ Good exercise.
 
 **Today's Progress**: Work on MVVM project interacting GitHub API. Implement Epoxy.
 
-### Day 75:
+### Day 75: Oct 14
 
-**Today's Progress**:
+**Today's Progress**: Work on MVVM project. Learn the role of ViewModel.
 
-### Day 76:
+### Day 76: Oct 15
 
-**Today's Progress**:
+**Today's Progress**: Implement all minimum functions.
 
-### Day 77:
+### Day 77: Oct 17
 
-**Today's Progress**:
+**Today's Progress**: Modify website
 
-### Day 78:
+### Day 78: Oct 21
 
-**Today's Progress**:
+**Today's Progress**: Update website
 
-### Day 79:
+### Day 79: Oct 22
 
-**Today's Progress**:
+**Today's Progress**: Modify website
 
 ### Day 80:
 
