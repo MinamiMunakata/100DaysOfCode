@@ -526,9 +526,9 @@ Good exercise.
 
 **Today's Progress**: Modify website
 
-### Day 80:
+### Day 80: Nov 11
 
-**Today's Progress**:
+**Today's Progress**: Publish Medium article.
 
 ### Day 81:
 
