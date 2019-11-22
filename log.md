@@ -530,13 +530,13 @@ Good exercise.
 
 **Today's Progress**: Publish Medium article.
 
-### Day 81:
+### Day 81: Nov 21
 
-**Today's Progress**:
+**Today's Progress**: Upload files to the server.
 
-### Day 82:
+### Day 82: Nov 22
 
-**Today's Progress**:
+**Today's Progress**: Open the website.
 
 ### Day 83:
 
