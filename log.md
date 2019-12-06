@@ -538,17 +538,17 @@ Good exercise.
 
 **Today's Progress**: Open the website.
 
-### Day 83:
+### Day 83: Dec 2
 
-**Today's Progress**:
+**Today's Progress**: Clone [.bash](https://github.com/itzderr/dotfiles) files and tried them.
 
-### Day 84:
+### Day 84: Dec 3
 
-**Today's Progress**:
+**Today's Progress**: Learn Dependency Injection.
 
-### Day 85:
+### Day 85: Dec 4
 
-**Today's Progress**:
+**Today's Progress**: Learn [Clean Architecture](https://www.notion.so/nabe90s/Developer-0fd2d53f2e3640a0b39eafd2e20d5961#d7f27b11096c4c54ba1f8f010d15c1e1).
 
 ### Day 86:
 
