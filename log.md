@@ -562,9 +562,9 @@ Good exercise.
 
 **Today's Progress**: Learn the basics of Kotlin. Done Lesson2 (https://classroom.udacity.com/courses/ud9011)
 
-### Day 89:
+### Day 89: Dec 17
 
-**Today's Progress**:
+**Today's Progress**: Learn Rx (https://link.medium.com/XGpttORnu2)
 
 ### Day 90:
 
